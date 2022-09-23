@@ -1,2 +1,1 @@
-# sravani
-siva sir dotnet
+Automating ASp .net core application to AWS ecs Fargate 
